@@ -4,4 +4,4 @@ Just fork this repo, customize it as needed, and deploy it on any free hosting p
 
 Let’s make lab prep easier for everyone!
 
-LINK: https:/daa122.netlify.app/
+LINK: https://daa122.netlify.app/
